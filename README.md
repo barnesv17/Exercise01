@@ -1,2 +1,5 @@
 This is a new file for a new test project.
-Now I'm working on branches.
+
+We are now happy ... at least a little bit.
+
+We are happier.
